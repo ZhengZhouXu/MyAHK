@@ -1,33 +1,33 @@
-﻿CapsLock & l::
+﻿#l::
 MouseMove, 200, 0, 2, R
 return
 
-CapsLock & j::
+#j::
 MouseMove, 0, 200, 2, R
 return
 
-CapsLock & h::
+#h::
 MouseMove, -200, 0, 2, R
 return
 
-CapsLock & k::
+#k::
 MouseMove, 0, -200, 2, R
 return
 
 
-CapsLock & Right::
+#Right::
 MouseMove, 20, 0, 5, R
 return
 
-CapsLock & Down::
+#Down::
 MouseMove, 0, 20, 5, R
 return
 
-CapsLock & Left::
+#Left::
 MouseMove, -20, 0, 5, R
 return
 
-CapsLock & Up::
+#Up::
 MouseMove, 0, -20, 5, R
 return
 
